@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+    <storage>
+        <mark brand="Alfo Romeo">
+            <model model="Guila">
+                <item image="https://s.auto.drom.ru/i24202/c/photos/fullsize/alfa_romeo/giulia/alfa_romeo_giulia_640868.jpg" model="Guila">
+                    <price>42.200</price>
+                    <year>2018</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="GTV">
+                <item image="https://upload.wikimedia.org/wikipedia/commons/b/bf/Alfa_Romeo_Spider_2002.JPG" model="GTV">
+                    <price>17.000</price>
+                    <year>2004</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="GT">
+                <item image="https://a.d-cd.net/2d2fa0as-960.jpg" model="GT">
+                    <price>16.200</price>
+                    <year>2004</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Audi">
+            <model model="A1">
+                <item image="https://foto.carexpert.ru/img/foto1680/audi/audi1049.jpg" model="A1 8x">
+                    <price>25.500</price>
+                    <year>2010</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://hdpic.club/uploads/posts/2021-11/1637955987_1-hdpic-club-p-audi-1-1.jpg" model="A1 8x">
+                    <price>32.799</price>
+                    <year>2015</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://upload.wikimedia.org/wikipedia/commons/8/8a/Audi_A1_30_TFSI_IMG_0811.jpg" model="A1 1GB">
+                    <price>63.000</price>
+                    <year>2018</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="A2">
+                <item image="http://otzyvy-avtovladelcev.ru/img/auto-body-image/1052/12355.jpg" model="A2">
+                    <price>17.999</price>
+                    <year>2000</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://www.gaddidekho.com/wp-content/uploads/2013/03/Audi-A2.jpg" model="A2">
+                    <price>12.100</price>
+                    <year>1998</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://wroom.ru/i2/carpic/18880.jpg" model="A2">
+                    <price>24.300</price>
+                    <year>2006</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://i.pinimg.com/originals/13/7e/fc/137efc3f316e9f1e5bb66ddfb8aa60c3.jpg" model="A2">
+                    <price>28.000</price>
+                    <year>2006</year>
+                    <type>механика</type>
+                    <volume>1.4 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="A3">
+                <item image="https://i.pinimg.com/originals/db/9c/97/db9c97cceb9e66f79b46063ec3716b4b.jpg" model="A3 sedan">
+                    <price>32.200</price>
+                    <year>2013</year>
+                    <type>механика</type>
+                    <volume>1.9 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://3.bp.blogspot.com/-is23o-LzEZo/UyB7-fOa9lI/AAAAAAACVV0/r8ftIZ-_2vM/s1600/2015+Audi+A3+Review+Photos+%252828%2529.jpg" model="A3 sedan">
+                    <price>28.200</price>
+                    <year>2011</year>
+                    <type>механика</type>
+                    <volume>1.9 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://www.audi-sport.net/xf/attachments/dsc_0075_1-jpg.42531/" model="A3 8R">
+                    <price>31.000</price>
+                    <year>2012</year>
+                    <type>автомат</type>
+                    <volume>1.4 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.carscoops.com/wp-content/uploads/2012/08/f27a2d3a-2013-audi-a3-2425255b225255d.jpg" model="A3 8V">
+                    <price>26.150</price>
+                    <year>2014</year>
+                    <type>механика</type>
+                    <volume>1.6 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://avtoexperts.ru/wp-content/uploads/2022/04/vino-audi-a3-wh.jpg" model="A3 8V">
+                    <price>29.300</price>
+                    <year>2014</year>
+                    <type>механика</type>
+                    <volume>1.6 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="A4">
+                <item image="https://a.d-cd.net/YpAAAgAGkuA-1920.jpg" model="A4 B9">
+                    <price>53.700</price>
+                    <year>2019</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://i.pinimg.com/originals/13/de/f3/13def39a677d029ed16d4c9b72f8a37d.jpg" model="A4 B9">
+                    <price>67.370</price>
+                    <year>2018</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://mobimg.b-cdn.net/v3/fetch/83/836e66091d37645c5deaf286125bac73.jpeg" model="A4 B9">
+                    <price>61.100</price>
+                    <year>2019</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://taksi007.ru/wp-content/uploads/8/9/4/8940db318bb7c36a5e7a84675da39246.jpeg" model="A4 B8">
+                    <price>46.485</price>
+                    <year>2012</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://live.staticflickr.com/2350/2067134103_1453fae77a_b.jpg" model="A4 B7">
+                    <price>22.065</price>
+                    <year>2006</year>
+                    <type>автомат</type>
+                    <volume>1.9 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://mwt-racing.ru/image/upload/p1dnd0m54a1e73g8c1u81v8s6307.jpg" model="A4 B7">
+                    <price>23.242</price>
+                    <year>2005</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://upload.wikimedia.org/wikipedia/commons/f/f1/Audi_A4_B7_rear_20080318.jpg" model="A4 B7">
+                    <price>17.065</price>
+                    <year>2004</year>
+                    <type>механика</type>
+                    <volume>1.8 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://content.onliner.by/news/2014/10/default/dabdc7023984ceba4e018bffc8b79371.jpg" model="A4 B6">
+                    <price>21.036</price>
+                    <year>2003</year>
+                    <type>механика</type>
+                    <volume>1.9 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://vag-auto.by/images/news2018/18.08/A4-ffront.jpg" model="A4 B6">
+                    <price>15.537</price>
+                    <year>2002</year>
+                    <type>механика</type>
+                    <volume>1.9 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://kolesa-uploads.ru/-/b539b321-14ea-4f24-a6ad-1998ddce9ad1/11111.jpg" model="A4 B5">
+                    <price>17.946</price>
+                    <year>2004</year>
+                    <type>механика</type>
+                    <volume>1.9 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://avto-russia.ru/autos/audi/photo/audi_a4_b5_2.jpg" model="A4 B5">
+                    <price>16.165</price>
+                    <year>2003</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="A5">
+                <item image="https://avcdn.av.by/advertbig/0001/3151/7153.jpg" model="A5 F5">
+                    <price>69.643</price>
+                    <year>2021</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://i.ytimg.com/vi/U0SA6Ap7nGY/maxresdefault.jpg" model="A5 F5">
+                    <price>66.700</price>
+                    <year>2019</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://yams.kufar.by/api/v1/kufar-ads/images/84/8448965131.jpg?rule=list_thumbs_2x" model="A5 8T">
+                    <price>44.832</price>
+                    <year>2010</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://avatars.mds.yandex.net/get-autoru-vos/2078150/7ef124f0c96d57225530a9199bc61e20/1200x900" model="A5 8T">
+                    <price>49.300</price>
+                    <year>2012</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="A6">
+                <item image="https://s.auto.drom.ru/i24213/c/photos/fullsize/audi/a6/audi_a6_756799.jpg" model="A6 C6">
+                    <price>36.270</price>
+                    <year>2006</year>
+                    <type>автомат</type>
+                    <volume>2.7 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://yams.kufar.by/api/v1/kufar-ads/images/76/7607013671.jpg?rule=gallery" model="A6 C6">
+                    <price>42.920</price>
+                    <year>2006</year>
+                    <type>механика</type>
+                    <volume>2.7 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://media.makler.md/production/an/original/000/046/530/000046530615.jpg" model="A6 C6">
+                    <price>49.185</price>
+                    <year>2011</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://s.auto.drom.ru/i24213/c/photos/fullsize/audi/a6/audi_a6_756799.jpg" model="A6 C5">
+                    <price>36.270</price>
+                    <year>2006</year>
+                    <type>механика</type>
+                    <volume>2.7 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://a.d-cd.net/CYXtzIXmHwSNSjuIQ-TFeVP4sTA-960.jpg" model="A6 C7">
+                    <price>72.399</price>
+                    <year>2016</year>
+                    <type>механика</type>
+                    <volume>1.8 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://avcdn.av.by/advertpreview/0000/2729/3370.jpeg" model="A6 C7">
+                    <price>64.129</price>
+                    <year>2014</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="A7">
+                <item image="https://avcdn.av.by/advertpreview/0001/8136/8278.jpg" model="A7 G4">
+                    <price>62.388</price>
+                    <year>2011</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://avcdn.av.by/advertpreview/0001/9821/3836.jpg" model="A7 G4">
+                    <price>72.037</price>
+                    <year>2014</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="A8">
+                <item image="https://www.carscoops.com/wp-content/uploads/2019/08/99acdbe4-audi-r8-v10-brixton-.jpg" model="A8 R8">
+                    <price>117.300</price>
+                    <year>2016</year>
+                    <type>механика</type>
+                    <volume>5.2 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Bently">
+            <model model="Continental">
+                <item image="https://avatars.mds.yandex.net/get-verba/1030388/2a000001608db8944c8d39f98c5984e4ed7b/cattouch" model="GT1">
+                    <price>98.300</price>
+                    <year>2006</year>
+                    <type>автомат</type>
+                    <volume>6.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="Continental">
+                <item image="https://autotuni.ru/uploads/posts/2011-10/1317801656_3.jpg" model="GT2">
+                    <price>103.800</price>
+                    <year>2011</year>
+                    <type>автомат</type>
+                    <volume>6.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="BMW">
+            <model model="i3">
+                <item image="https://s3.eu-central-2.wasabisys.com/shikauto-autocatalog/2e022074f932965dd181b31301e91d57/1509/1672819372wkx1XP.jpg" model="i3">
+                    <price>36.000</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>0.6 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="i4">
+                <item image="https://images.drive.ru/i/0/60b72950e915362d10839a7d.jpg" model="i4">
+                    <price>96.000</price>
+                    <year>2022</year>
+                    <type>механика</type>
+                    <volume>1.5 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="i8">
+                <item image="https://avcdn.av.by/advertbig/0001/9650/1224.png" model="i8">
+                    <price>104.000</price>
+                    <year>2015</year>
+                    <type>автомат</type>
+                    <volume>1.5 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="M2">
+                <item image="https://tuningmode.ru/sites/default/files/pol_pl_splitter-przedni-v-2-bmw-m2-f87-13192_3.jpg" model="M2 F87">
+                    <price>75.700</price>
+                    <year>2017</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://avcdn.av.by/advertbig/0001/3600/4013.jpg" model="M2 F87">
+                    <price>72.200</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="M3">
+                <item image="https://a.d-cd.net/1385e0as-960.jpg" model="M3 F80">
+                    <price>67.700</price>
+                    <year>2015</year>
+                    <type>автомат</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://machineswithsouls.com/wp-content/uploads/2021/11/DSC_7125-1.jpg" model="M3 F80">
+                    <price>62.200</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>3.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="M4">
+                <item image="https://s1.avtodom.by//images/vehicles/11612/large/4c4ee35bd3106f6896e9413411fb0f27.jpeg" model="M4 F82">
+                    <price>87.230</price>
+                    <year>2018</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.tuningblog.eu/wp-content/uploads/2018/03/Elite-Design-Concepts-EDC-BMW-M4-F83-Cabrio-Tuning-5.jpg" model="M4 F83">
+                    <price>59.100</price>
+                    <year>2014</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://f7432d8eadcf865aa9d9-9c672a3a4ecaaacdf2fee3b3e6fd2716.ssl.cf3.rackcdn.com/C2553/U593/IMG_22148-large.jpg" model="M4 F83">
+                    <price>63.690</price>
+                    <year>2015</year>
+                    <type>механика</type>
+                    <volume>3.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://tuningmode.ru/sites/default/files/pol_pl_dokladki-progow-v-2-bmw-m4-g82-13493_3.jpg" model="M4 G82">
+                    <price>80.200</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>3.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="M5">
+                <item image="https://wheelfront.com/wp-content/uploads/formidable/8/47291775052_9bd1ed9dfc_k.jpg" model="M5 F90">
+                    <price>110.000</price>
+                    <year>2020</year>
+                    <type>автомат</type>
+                    <volume>4.4 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="M6">
+                <item image="https://i.pinimg.com/originals/8a/8e/34/8a8e341e2c52fffa2ad07b1b0d7c5579.jpg" model="M6 E63">
+                    <price>136.381</price>
+                    <year>2007</year>
+                    <type>механика</type>
+                    <volume>5.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.autodata1.com/media/bmw/pics/bmw-m6-e63-%5B867%5D.jpg" model="M6 E63">
+                    <price>98.567</price>
+                    <year>2005</year>
+                    <type>механика</type>
+                    <volume>5.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Chevrolet">
+            <model model="Trail Blazer 3">
+                <item image="https://avatars.mds.yandex.net/get-verba/3587101/2a0000017891922c29ac2c09809b3224d9c1/cattouchret" model="Trail Blazer 3">
+                    <price>55.300</price>
+                    <year>2020</year>
+                    <type>механика</type>
+                    <volume>1.3 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://images.autoboom.co.il/7S4MBi_HZCL7U3TvA4Aw-uN2Zp_ztApttg7rdT79-PA/fit/1200/1200/sm/0/Z3M6Ly9hdXRvYm9vbS1pbWFnZXMvMDAwLzAwMC8wNzMvNzM4MDAuanBn.jpg" model="Trail Blazer 3">
+                    <price>47.700</price>
+                    <year>2019</year>
+                    <type>механика</type>
+                    <volume>1.2 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="Camaro 4">
+                <item image="https://i.redd.it/w9xdv7t1wh011.jpg" model="Camaro 4">
+                    <price>74.100</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.autoguide.com/blog/wp-content/gallery/2016-chevrolet-camaro-1lt-rs-7-19-2016/2016-Chevrolet-Camaro-1LT-Front-01.jpg" model="Camaro 4">
+                    <price>82.800</price>
+                    <year>2018</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://picolio.auto123.com/auto123-media/articles/2017/8/63883/2017-Chevrolet-Camaro-1LT-001fr.JPG" model="Camaro 4">
+                    <price>76.000</price>
+                    <year>2017</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="Camaro 4">
+                <item image="https://i.redd.it/w9xdv7t1wh011.jpg" model="Camaro 4">
+                    <price>74.100</price>
+                    <year>2016</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.autoguide.com/blog/wp-content/gallery/2016-chevrolet-camaro-1lt-rs-7-19-2016/2016-Chevrolet-Camaro-1LT-Front-01.jpg" model="Camaro 4">
+                    <price>82.800</price>
+                    <year>2018</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://picolio.auto123.com/auto123-media/articles/2017/8/63883/2017-Chevrolet-Camaro-1LT-001fr.JPG" model="Camaro 4">
+                    <price>76.000</price>
+                    <year>2017</year>
+                    <type>автомат</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Dodge">
+            <model model="Chalenger 3">
+                <item image="https://avatars.mds.yandex.net/get-verba/1540742/2a00000180bc7f172316b42c2588d79141a3/thumb_m_2x" model="Chalenger 3">
+                    <price>85.980</price>
+                    <year>2018</year>
+                    <type>автомат</type>
+                    <volume>3.6 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://www.notonlycars.net/wp-content/uploads/2020/12/130584361_886729622086841_2958160552207116068_n-960x960.jpg" model="Chalenger 3">
+                    <price>91.700</price>
+                    <year>2019</year>
+                    <type>автомат</type>
+                    <volume>3.6 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="Journey">
+                <item image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg/1200px-2012_Dodge_Journey_--_NHTSA_3.jpg" model="Journey">
+                    <price>56.980</price>
+                    <year>2018</year>
+                    <type>автомат</type>
+                    <volume>2.4 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Ford">
+            <model model="Edge">
+                <item image="https://auto.ironhorse.ru/wp-content/uploads/2014/07/ford-edge-2015.jpg" model="Edge">
+                    <price>46.510</price>
+                    <year>2018</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://s.auto.drom.ru/i24245/c/photos/fullsize/ford/edge/ford_edge_953790.jpg" model="Edge">
+                    <price>49.300</price>
+                    <year>2017</year>
+                    <type>механика</type>
+                    <volume>3.5 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://s.auto.drom.ru/i24245/c/photos/fullsize/ford/edge/ford_edge_953774.jpg" model="Edge">
+                    <price>53.100</price>
+                    <year>2017</year>
+                    <type>механика</type>
+                    <volume>3.5 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+            <model model="focus 4">
+                <item image="https://www.allcarz.ru/wp-content/uploads/2017/11/foto-focus-4-hb_01.jpg" model="focus 4">
+                    <price>39.610</price>
+                    <year>2018</year>
+                    <type>механика</type>
+                    <volume>1.5 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://avatars.mds.yandex.net/get-verba/937147/2a00000162b48eb1856923872426a6ecc703/cattouch" model="focus 4">
+                    <price>40.370</price>
+                    <year>2017</year>
+                    <type>механика</type>
+                    <volume>1.5 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="galaxy 2">
+                <item image="https://s.auto.drom.ru/img1/catalog/photos/fullsize/ford/galaxy/ford_galaxy_27387.jpg" model="||">
+                    <price>27.210</price>
+                    <year>2011</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://a.d-cd.net/dbec42es-960.jpg" model="||">
+                    <price>31.070</price>
+                    <year>2012</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+                <item image="https://all-auto.org/wp-content/uploads/2021/05/Ford-Galaxy-3-2.jpg" model="|||">
+                    <price>27.370</price>
+                    <year>2011</year>
+                    <type>механика</type>
+                    <volume>2.0 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+            <model model="fiesta">
+                <item image="https://i.ytimg.com/vi/yXEwTLgtPFo/maxresdefault.jpg" model="ST4">
+                    <price>41.650</price>
+                    <year>2017</year>
+                    <type>механика</type>
+                    <volume>1.6 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+                <item image="https://avcdn.av.by/advertpreview/0001/9288/9723.jpg" model="ST4">
+                    <price>40.170</price>
+                    <year>2019</year>
+                    <type>механика</type>
+                    <volume>1.6 л</volume>
+                    <fuel>дизель</fuel>
+                </item>
+            </model>
+        </mark>
+        <mark brand="Ferrari">
+            <model model="GTB 488">
+                <item image="https://s.auto.drom.ru/i24207/c/photos/fullsize/ferrari/488_gtb/ferrari_488_gtb_694008.jpg" model="GTB 488">
+                    <price>178.360</price>
+                    <year>2017</year>
+                    <type>автомат</type>
+                    <volume>3.9 л</volume>
+                    <fuel>бензин</fuel>
+                </item>
+            </model>
+        </mark>
+    </storage>
+</document>
